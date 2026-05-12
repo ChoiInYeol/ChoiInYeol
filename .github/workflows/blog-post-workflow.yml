@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://choiinyeol.github.io/feed.xml"
           max_post_count: 5
+          disable_html_encoding: "true"

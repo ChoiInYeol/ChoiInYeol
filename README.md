@@ -1,47 +1,69 @@
-<div align="center">
+### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Inyeol%20Choi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Quant%20AI%20Researcher&descSize=18&descAlignY=58&animation=fadeIn" />
+This is where I open-source quant research, ship trading tooling, and occasionally break things 🤣
 
-<a href="https://github.com/ChoiInYeol">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=703EE5&center=true&vCenter=true&width=620&lines=Quant+AI+Researcher+%40+Qraft+Technologies;M.S.+in+Artificial+Intelligence+%40+Kyung+Hee+University;Asset+Pricing+%C2%B7+Portfolio+Opt+%C2%B7+Prediction+Markets" />
-</a>
+- 🔭  Currently building **deep asset pricing** & **portfolio optimization** systems at **[Qraft Technologies](https://www.qraftec.com)**
+- 🎓  M.S. in Artificial Intelligence @ **Kyung Hee University** · [KHU FELAB](https://sites.google.com/khu.ac.kr/felab) member
+- 🌱  Currently learning: **JAX**, market microstructure, prediction-market mechanics
+- 💬  Ask me about: **PyTorch · quantitative ML · deep portfolio optimization · time-series forecasting**
+- 👨‍💻  Read more about my work at [choiinyeol.github.io](https://choiinyeol.github.io)
+- ⚡  Fun fact: I take `numpy.random.seed(42)` very personally
 
-</div>
+### 📕  Latest Blog Posts
 
----
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### About
+### 🔗  Connect with me
 
-```python
-class Inyeol:
-    role     = "Quant AI Researcher @ Qraft Technologies"
-    edu      = "M.S. Artificial Intelligence, Kyung Hee University"
-    lab      = "KHU FELAB (Financial Engineering Lab)"
-    location = "Suwon, South Korea"
-    focus    = ["deep asset pricing",
-                "portfolio optimization",
-                "prediction-market microstructure"]
-    contact  = "inyeol.choi@qraftec.com"
+<p>
+  <a href="https://choiinyeol.github.io"><img src="https://img.shields.io/badge/Portfolio-703EE5?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:inyeol.choi@qraftec.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ChoiInYeol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+### ✨  About Me
+
+I'm a **Quant AI Researcher** at **Qraft Technologies**, pursuing an M.S. in Artificial Intelligence at **Kyung Hee University**. My research sits at the intersection of deep learning and financial modeling — empirical asset pricing, portfolio construction, and alternative data signals.
+
+#### My Research & Open-Source Story
+
+Most of my exploratory work and side projects live as open-source on GitHub. A few highlights:
+
+- **[Asset-pricing-models-using-deep-learning-networks](https://github.com/ChoiInYeol/Asset-pricing-models-using-deep-learning-networks)** — Empirical asset pricing with DNN / RNN factor models. Replicates and extends the modern empirical asset pricing literature with deep architectures.
+
+- **[Portfolio-Optimization-Deep-Learning-With-Candlestick-Image](https://github.com/ChoiInYeol/Portfolio-Optimization-Deep-Learning-WIth-Candlestick-Image)** — Mean-variance allocation conditioned on candlestick chart images. Explores whether visual chart features carry exploitable allocation signal beyond standard tabular features.
+
+- **[prediction-market-analysis](https://github.com/ChoiInYeol/prediction-market-analysis)** — A framework for collecting and analyzing **Polymarket** and **Kalshi** market & trade data. Treats event-market flow as a structured alpha signal.
+
+- **[snusmic-quant-terminal](https://github.com/ChoiInYeol/snusmic-quant-terminal)** — A terminal-based quant research workbench.
+
+- **[RuleBase-VS-TimeSeries-Algorithm](https://github.com/ChoiInYeol/RuleBase-VS-TimeSeries-Algorithm)** — Capstone benchmark of rule-based trading vs. deep time-series strategies.
+
+⏩   and many more
+
+```
+  ___                  _      _    ___ 
+ / _ \ _   _  __ _ ___| |_   / \  |_ _|
+| | | | | | |/ _` / __| __| / _ \  | | 
+| |_| | |_| | (_| \__ \ |_ / ___ \ | | 
+ \__\_\\__,_|\__,_|___/\__/_/   \_\___|
+            hunt the alpha, ship the code.
 ```
 
-### Research interests
+During my graduate research at **KHU FELAB**, I've worked across empirical asset pricing, mean-variance optimization, candlestick-conditioned allocation, and prediction-market microstructure. I believe the most interesting quant problems sit where machine learning meets economic structure — neither pure curve-fitting nor pure theory.
 
-- **Deep Asset Pricing** — characteristics-based, factor-augmented neural pricing models
-- **Portfolio Optimization** — mean-variance / image-conditioned allocation via deep nets
-- **Alt-Data & Prediction Markets** — Polymarket / Kalshi flow as alpha signal
-- **Time-Series Forecasting** — rule-base ↔ DL strategy benchmarking
+I keep my hands dirty through domestic algorithmic-trading and data-analysis competitions on the side.
 
-### Featured work
+#### Awards & Activities
 
-| Repository | Topic |
-| :--- | :--- |
-| **[Asset-pricing-models-using-deep-learning-networks](https://github.com/ChoiInYeol/Asset-pricing-models-using-deep-learning-networks)** | Empirical asset pricing with DNN / RNN |
-| **[Portfolio-Optimization-Deep-Learning-WIth-Candlestick-Image](https://github.com/ChoiInYeol/Portfolio-Optimization-Deep-Learning-WIth-Candlestick-Image)** | Mean-Variance optimization conditioned on chart images |
-| **[prediction-market-analysis](https://github.com/ChoiInYeol/prediction-market-analysis)** | Polymarket + Kalshi data pipeline & analysis |
-| **[snusmic-quant-terminal](https://github.com/ChoiInYeol/snusmic-quant-terminal)** | Terminal-based quant research tooling |
-| **[RuleBase-VS-TimeSeries-Algorithm](https://github.com/ChoiInYeol/RuleBase-VS-TimeSeries-Algorithm)** | Rule-base vs TS-DL strategy showdown |
+- **KHU FELAB** — graduate researcher
+- **KRX 주식 투자 알고리즘 경진대회** — algorithmic trading competition
+- **DB 투자대회** — investment-strategy competition
+- **미래에셋증권 빅데이터 페스티벌 (ESG)** — big-data festival
+- **2022 통계데이터 분석·활용대회** — statistical data analysis competition
 
-### Stack
+### 🛠️  Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -58,30 +80,11 @@ class Inyeol:
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-### GitHub
+### 📈  Language / Framework stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ChoiInYeol&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=703ee5&icon_color=703ee5&text_color=555"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ChoiInYeol&hide_border=true&background=00000000&ring=703EE5&fire=703EE5&currStreakLabel=703EE5"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiInYeol&layout=compact&hide_border=true&theme=transparent&title_color=703ee5&text_color=555&langs_count=8"/>
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=ChoiInYeol&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=10&margin-h=10"/>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChoiInYeol&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=703ee5&icon_color=703ee5"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiInYeol&layout=compact&hide_border=true&theme=transparent&title_color=703ee5&langs_count=8"/>
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoiInYeol&bg_color=00000000&color=703ee5&line=703ee5&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
-### Connect
-
-<div align="center">
-
-<a href="https://choiinyeol.github.io"><img src="https://img.shields.io/badge/Portfolio-703EE5?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-<a href="mailto:inyeol.choi@qraftec.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/ChoiInYeol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-<sub><code>numpy.random.seed(42)</code> · built for reproducible alpha</sub>
-</div>

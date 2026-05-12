@@ -14,8 +14,8 @@ This is where I open-source quant research, ship trading tooling, and occasional
 <!-- BLOG-POST-LIST:START -->
 - [금융공학을 배우는 방법, 근데 이제 발표를 곁들인](https://choiinyeol.github.io/How-to-Learn-Financial-Engineering-With-a-Presentation-Twist/)
 - [개발자에 대해 평소 해왔던 생각을 정리하는 글](https://choiinyeol.github.io/Thoughts-on-Developers-I-Have-Always-Had/)
-- [S&amp;amp;P Quantitative Investment Model Development Competition Report](https://choiinyeol.github.io/SNPQuantitativeInvestmentModelDevelopmentCompetitionReport/)
-- [옵시디언으로 개발 블로그 구축하기 - &lpar;1&rpar;](https://choiinyeol.github.io/Building-a-Developer-Blog-with-Obsidian-1/)
+- [S&amp;P Quantitative Investment Model Development Competition Report](https://choiinyeol.github.io/SNPQuantitativeInvestmentModelDevelopmentCompetitionReport/)
+- [옵시디언으로 개발 블로그 구축하기 - (1)](https://choiinyeol.github.io/Building-a-Developer-Blog-with-Obsidian-1/)
 - [AI 프로젝트를 위한 WSL2 개발 환경 세팅 가이드](https://choiinyeol.github.io/Setting-Up-WSL2-Development-Environment-for-AI-Projects/)
 <!-- BLOG-POST-LIST:END -->
 

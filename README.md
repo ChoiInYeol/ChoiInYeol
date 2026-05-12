@@ -3,7 +3,7 @@
 This is where I open-source quant research, ship trading tooling, and occasionally break things 🤣
 
 - 🔭  Currently building **deep asset pricing** & **portfolio optimization** systems at **[Qraft Technologies](https://www.qraftec.com)**
-- 🎓  M.S. in Artificial Intelligence @ **Kyung Hee University** · [KHU FELAB](https://sites.google.com/khu.ac.kr/felab) member
+- 🎓  M.S. in Artificial Intelligence @ **Kyung Hee University** · [KHU AIMS Lab](https://sites.google.com/khu.ac.kr/aims/home) member
 - 🌱  Currently learning: **JAX**, market microstructure, prediction-market mechanics
 - 💬  Ask me about: **PyTorch · quantitative ML · deep portfolio optimization · time-series forecasting**
 - 👨‍💻  Read more about my work at [choiinyeol.github.io](https://choiinyeol.github.io)
@@ -12,18 +12,13 @@ This is where I open-source quant research, ship trading tooling, and occasional
 ### 📕  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [금융공학을 배우는 방법, 근데 이제 발표를 곁들인](https://choiinyeol.github.io/How-to-Learn-Financial-Engineering-With-a-Presentation-Twist/)
-- [개발자에 대해 평소 해왔던 생각을 정리하는 글](https://choiinyeol.github.io/Thoughts-on-Developers-I-Have-Always-Had/)
-- [S&amp;P Quantitative Investment Model Development Competition Report](https://choiinyeol.github.io/SNPQuantitativeInvestmentModelDevelopmentCompetitionReport/)
-- [옵시디언으로 개발 블로그 구축하기 - (1)](https://choiinyeol.github.io/Building-a-Developer-Blog-with-Obsidian-1/)
-- [AI 프로젝트를 위한 WSL2 개발 환경 세팅 가이드](https://choiinyeol.github.io/Setting-Up-WSL2-Development-Environment-for-AI-Projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗  Connect with me
 
 <p>
   <a href="https://choiinyeol.github.io"><img src="https://img.shields.io/badge/Portfolio-703EE5?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="mailto:inyeol.choi@qraftec.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:chldlsel@khu.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ChoiInYeol"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -56,13 +51,13 @@ Most of my exploratory work and side projects live as open-source on GitHub. A f
             hunt the alpha, ship the code.
 ```
 
-During my graduate research at **KHU FELAB**, I've worked across empirical asset pricing, mean-variance optimization, candlestick-conditioned allocation, and prediction-market microstructure. I believe the most interesting quant problems sit where machine learning meets economic structure — neither pure curve-fitting nor pure theory.
+During my graduate research at **KHU AIMS Lab**, I've worked across empirical asset pricing, mean-variance optimization, candlestick-conditioned allocation, and prediction-market microstructure. My research training began under an advisor now affiliated with **[Korea University Department of Financial Engineering](https://fintech.korea.ac.kr/)**. I believe the most interesting quant problems sit where machine learning meets economic structure — neither pure curve-fitting nor pure theory.
 
 I keep my hands dirty through domestic algorithmic-trading and data-analysis competitions on the side.
 
 #### Awards & Activities
 
-- **KHU FELAB** — graduate researcher
+- **KHU AIMS Lab** — graduate researcher
 - **KRX 주식 투자 알고리즘 경진대회** — algorithmic trading competition
 - **DB 투자대회** — investment-strategy competition
 - **미래에셋증권 빅데이터 페스티벌 (ESG)** — big-data festival

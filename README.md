@@ -35,7 +35,7 @@ I'm a **Quant AI Researcher** at **Qraft Technologies**, pursuing an M.S. in Art
 
 Most of my exploratory work and side projects live as open-source on GitHub. A few highlights:
 
-- **[Asset-pricing-models-using-deep-learning-networks](https://github.com/ChoiInYeol/korea-deep-factor)** — Empirical asset pricing with DNN / RNN factor models. Replicates and extends the modern empirical asset pricing literature with deep architectures.
+- **[korea-deep-factor](https://github.com/ChoiInYeol/korea-deep-factor)** — Empirical asset pricing with DNN / RNN factor models. Replicates and extends the modern empirical asset pricing literature with deep architectures.
 
 - **[Portfolio-Optimization-Deep-Learning-With-Candlestick-Image](https://github.com/ChoiInYeol/Portfolio-Optimization-Deep-Learning-WIth-Candlestick-Image)** — Mean-variance allocation conditioned on candlestick chart images. Explores whether visual chart features carry exploitable allocation signal beyond standard tabular features.
 
